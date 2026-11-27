@@ -1,0 +1,5 @@
+node_modules/
+*.log
+wp-content/uploads/logs/
+.DS_Store
+*.zip
