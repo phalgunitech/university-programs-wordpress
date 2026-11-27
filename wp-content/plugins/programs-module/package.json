@@ -1,0 +1,1 @@
+{"name":"programs-module-admin","private":true,"scripts":{"build":"wp-scripts build src/index.js --output-path=admin"},"devDependencies":{"@wordpress/scripts":"latest"}}
